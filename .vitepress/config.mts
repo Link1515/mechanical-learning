@@ -7,11 +7,20 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首頁', link: '/' },
+      { text: '連桿機構', link: '/linkage/four-bar/home' }
     ],
 
     sidebar: [
+      {
+        text: '四連桿連桿機構',
+        link: '/linkage/four-bar/home',
+        items: [
+          { text: '曲柄搖桿機構', link: '/linkage/four-bar/crank-rocker' },
+          { text: '雙曲柄機構', link: '/linkage/four-bar/double-crank' },
+          { text: '雙搖桿機構', link: '/linkage/four-bar/double-rocker' },
+        ]
+      },
       {
         text: 'Examples',
         items: [
