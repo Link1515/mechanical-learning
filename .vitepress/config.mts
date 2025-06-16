@@ -37,13 +37,6 @@ export default defineConfig({
           },
           { text: '固定滑塊曲柄機構', link: '/linkage/slider-crank/fixed' }
         ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
       }
     ],
 

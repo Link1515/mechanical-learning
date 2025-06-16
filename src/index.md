@@ -3,14 +3,14 @@
 layout: home
 
 hero:
-  name: MechLab 
+  name: MechLab
   text: 機械實驗室
   tagline: 探索機械原理與應用
   actions:
     - theme: brand
       text: 開始閱讀
-      link: /markdown-examples
+      link: /linkage/four-bar/home
     - theme: alt
       text: 關於作者
-      link: /api-examples
+      link: /
 ---
