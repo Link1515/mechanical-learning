@@ -3,23 +3,14 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: MechLab 
+  text: 機械實驗室
+  tagline: 探索機械原理與應用
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 開始閱讀
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 關於作者
       link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
