@@ -1,4 +1,4 @@
-# 四連桿機構 (4-BAR LINKAGE MECHANISM)
+# 四連桿機構<br />(4-Bar Linkage Mechanism)
 
 由四個剛性連桿和四個轉動鉸鏈所組成，形成一個封閉的四邊形機構。
 
