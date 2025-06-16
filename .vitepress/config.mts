@@ -1,9 +1,10 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "MechLab",
-  description: "本網站致力於分享機械原理與機械應用的知識，提供豐富的線上學習資源，適合對機械工程、結構設計與動力傳動有興趣的學生與自學者。透過簡單易懂的圖文說明與實例分析，幫助使用者在網路上輕鬆學習機械相關知識。",
+  title: 'MechLab',
+  description:
+    '本網站致力於分享機械原理與機械應用的知識，提供豐富的線上學習資源，適合對機械工程、結構設計與動力傳動有興趣的學生與自學者。透過簡單易懂的圖文說明與實例分析，幫助使用者在網路上輕鬆學習機械相關知識。',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -18,7 +19,23 @@ export default defineConfig({
         items: [
           { text: '曲柄搖桿機構', link: '/linkage/four-bar/crank-rocker' },
           { text: '雙曲柄機構', link: '/linkage/four-bar/double-crank' },
-          { text: '雙搖桿機構', link: '/linkage/four-bar/double-rocker' },
+          { text: '雙搖桿機構', link: '/linkage/four-bar/double-rocker' }
+        ]
+      },
+      {
+        text: '滑塊曲柄機構',
+        link: '/linkage/slider-crank/home',
+        items: [
+          {
+            text: '往復滑塊曲柄機構',
+            link: '/linkage/slider-crank/reciprocating'
+          },
+          { text: '迴轉滑塊曲柄機構', link: '/linkage/slider-crank/revolving' },
+          {
+            text: '擺動滑塊曲柄機構',
+            link: '/linkage/slider-crank/oscillating'
+          },
+          { text: '固定滑塊曲柄機構', link: '/linkage/slider-crank/fixed' }
         ]
       },
       {
@@ -31,8 +48,14 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Link1515/mechanical-learning' }
+      {
+        icon: 'github',
+        link: 'https://github.com/Link1515/mechanical-learning'
+      }
     ]
   },
-  srcDir: 'src'
-})
+  srcDir: 'src',
+  markdown: {
+    math: true
+  }
+});
