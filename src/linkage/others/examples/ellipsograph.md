@@ -7,6 +7,8 @@ next: false
 
 # 橢圓規
 
+- [相關頁面 - 畫橢圓機構](/draw-line/ellipse)
+
 <YoutubeEmbed video-id="FJcKD183y1g" />
 
 ![橢圓機構](/images/linkage/橢圓機構.jpg)

@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 import linkageSidebar from './sidbars/linkage';
+import drawLineSidebar from './sidbars/drawLine';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -10,11 +11,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
-      { text: '連桿機構', link: '/linkage/four-bar/home' }
+      { text: '連桿機構', link: '/linkage/four-bar/home' },
+      { text: '線條繪製機構', link: '/draw-line/straight-line' }
     ],
 
     sidebar: {
-      '/linkage': linkageSidebar
+      '/linkage': linkageSidebar,
+      '/draw-line': drawLineSidebar
     },
 
     socialLinks: [
