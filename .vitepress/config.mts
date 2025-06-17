@@ -24,6 +24,10 @@ export default defineConfig({
       }
     ],
 
+    footer: {
+      copyright: 'Copyright © 2016-present Terry Lin'
+    },
+
     search: {
       provider: 'local'
     }
