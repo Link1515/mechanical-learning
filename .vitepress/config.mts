@@ -22,7 +22,11 @@ export default defineConfig({
         icon: 'github',
         link: 'https://github.com/Link1515/mechanical-learning'
       }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   },
   srcDir: 'src',
   markdown: {
