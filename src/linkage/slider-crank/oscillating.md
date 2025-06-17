@@ -4,6 +4,4 @@
 
 ## 實際應用
 
-### 擺動引擎
-
-<YoutubeEmbed video-id="Hlg3ZeaeoGU" />
+- [擺動引擎](/linkage/slider-crank/examples/swinging-cylinder)

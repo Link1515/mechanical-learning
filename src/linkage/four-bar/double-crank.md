@@ -17,6 +17,4 @@ AD + AB < CD + BC
 
 ## 實際應用
 
-### 插床急回機構
-
-<YoutubeEmbed video-id="DZ4eV4aAfkY" />
+- [插床急回機構](/linkage/four-bar/examples/shaper-rapid-return)

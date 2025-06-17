@@ -4,10 +4,4 @@
 
 ## 實際應用
 
-### 手壓式抽水機
-
-<YoutubeEmbed video-id="8xv21E7XKBU" />
-
-<YoutubeEmbed video-id="adMu9Yo0nCA" />
-
-<YoutubeEmbed video-id="NtMIwYN7EeU" />
+- [手壓式抽水機](/linkage/slider-crank/examples/water-pump)

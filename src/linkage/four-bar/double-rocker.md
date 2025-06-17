@@ -17,10 +17,5 @@ BC + AB < AD + CD
 
 ## 實際應用
 
-### 風扇搖擺機構
-
-<YoutubeEmbed video-id="lusvDse493g" />
-
-### 汽車雨刷機構
-
-<YoutubeEmbed video-id="98_seR3wfvs" />
+- [風扇搖擺機構](/linkage/four-bar/examples/fan)
+- [汽車雨刷機構](/linkage/four-bar/examples/wiper)
