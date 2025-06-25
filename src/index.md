@@ -11,6 +11,6 @@ hero:
       text: 開始閱讀
       link: /linkage/four-bar/home
     - theme: alt
-      text: 關於作者
-      link: /
+      text: 關於本站
+      link: /about-project
 ---
