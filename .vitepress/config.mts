@@ -12,6 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
+      { text: '關於本站', link: '/about-project' },
       { text: '連桿機構', link: '/linkage/four-bar/home' },
       { text: '線條繪製機構', link: '/draw-line/straight-line' }
     ],
