@@ -20,4 +20,4 @@
 
 如果你對網站有任何建議，歡迎寫信與我聯繫，我很樂意聽聽你的想法與回饋!
 
-我的電子信箱: mocliamglink@gmail.com
+<div style="text-align: left">我的電子信箱: <span style="color: var(--vp-c-brand-1);">mocliamglink@gmail.com</span></div>
