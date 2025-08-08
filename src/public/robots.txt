@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://link1515.github.io/mechanical-learning/sitemap.xml
