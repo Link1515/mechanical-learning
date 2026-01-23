@@ -5,6 +5,6 @@ prev:
 next: false
 ---
 
-# 拉坏機
+# 拉坯機
 
 <YoutubeEmbed video-id="P-xT0xrK6AE" />

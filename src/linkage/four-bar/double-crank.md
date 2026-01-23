@@ -13,7 +13,7 @@ AD + CD < AB + BC
 AD + AB < CD + BC
 :::
 
-![曲柄搖桿機構](/images/linkage/雙曲柄機構.jpg)
+![雙曲柄機構](/images/linkage/雙曲柄機構.jpg)
 
 ## 實際應用
 

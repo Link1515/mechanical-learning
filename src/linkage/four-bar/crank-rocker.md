@@ -18,7 +18,7 @@ AB + AD < BC + CD
 ## 實際應用
 
 - [腳踏縫紉機](/linkage/four-bar/examples/sewing-machine)
-- [拉坏機](/linkage/four-bar/examples/potter-wheel)
+- [拉坯機](/linkage/four-bar/examples/potter-wheel)
 - 人踩腳踏車
-- 灰漿拌柔機
+- 灰漿攪拌機
 - 橢圓滑步機
