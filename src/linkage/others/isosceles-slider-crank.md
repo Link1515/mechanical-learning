@@ -6,4 +6,4 @@
 
 - [橢圓規](/linkage/others/examples/ellipsograph)
 - [歐丹連接器](/linkage/others/examples/oldham)
-- 司羅氏(Scott-Russel)直線運動機構
+- 司羅氏 (Scott-Russell) 直線運動機構
