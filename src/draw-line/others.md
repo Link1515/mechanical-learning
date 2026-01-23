@@ -8,7 +8,7 @@
 
 <YoutubeEmbed video-id="czlLBNBKBGM" />
 
-## 內擺線 (Epicycloid)
+## 內擺線 (Hypocycloid)
 
 <YoutubeEmbed video-id="mC3OEVkfmO8" />
 
@@ -51,7 +51,7 @@
 
 <YoutubeEmbed video-id="odqOvygXrcU" />
 
-## 柏努利雙曲線(Lemniscate of Bernoulli)
+## 柏努利雙曲線 (Lemniscate of Bernoulli)
 
 <YoutubeEmbed video-id="-znDMqdKWbk" />
 
