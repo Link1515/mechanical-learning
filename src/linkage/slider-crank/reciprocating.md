@@ -1,6 +1,6 @@
 # 往復滑塊機構<br />(Reciprocating Slider-Crank Mechanism)
 
-![曲柄滑塊動畫](/images/linkage/曲柄滑塊動畫.gif)
+<ReciprocatingSliderCrankAnimation />
 
 ## 特點
 
