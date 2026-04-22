@@ -1,6 +1,6 @@
 # 雙搖桿機構<br />(Double Rocker Mechanism)
 
-![雙搖桿動畫](/images/linkage/雙搖桿動畫.gif)
+<DoubleRockerAnimation />
 
 ## 構成條件
 
