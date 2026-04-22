@@ -1,5 +1,7 @@
 # 球面四連桿機構<br />(Spherical 4-Bar Linkage Mechanism)
 
+<SphericalFourBarAnimation />
+
 <YoutubeEmbed video-id="_fO4-0GOmS0" />
 
 ## 實際應用
