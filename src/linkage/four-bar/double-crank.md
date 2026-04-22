@@ -1,6 +1,6 @@
 # 雙曲柄機構<br />(Double Crank Mechanism)
 
-![雙曲柄動畫](/images/linkage/雙曲柄動畫.gif)
+<DoubleCrankAnimation />
 
 ## 構成條件
 
