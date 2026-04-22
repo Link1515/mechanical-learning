@@ -1,6 +1,6 @@
 # 曲柄搖桿機構<br />(Crank-Rocker Mechanism)
 
-![曲柄搖桿動畫](/images/linkage/曲柄搖桿動畫.gif)
+<FourBarAnimation />
 
 ## 構成條件
 
