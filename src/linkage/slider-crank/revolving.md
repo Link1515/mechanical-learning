@@ -1,6 +1,6 @@
 # 迴轉滑塊曲柄機構<br />(Revolving Slider-Crank Mechanism)
 
-![迴轉滑塊曲柄動畫](/images/linkage/迴轉滑塊曲柄動畫.gif)
+<RevolvingSliderCrankAnimation />
 
 ## 特點
 
