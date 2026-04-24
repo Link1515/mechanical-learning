@@ -4,6 +4,7 @@ import './custom.css';
 import DoubleCrankAnimation from '../components/DoubleCrankAnimation.vue';
 import DoubleRockerAnimation from '../components/DoubleRockerAnimation.vue';
 import FourBarAnimation from '../components/FourBarAnimation.vue';
+import OscillatingSliderCrankAnimation from '../components/OscillatingSliderCrankAnimation.vue';
 import ReciprocatingSliderCrankAnimation from '../components/ReciprocatingSliderCrankAnimation.vue';
 import RevolvingSliderCrankAnimation from '../components/RevolvingSliderCrankAnimation.vue';
 import SphericalFourBarAnimation from '../components/SphericalFourBarAnimation.vue';
@@ -15,6 +16,7 @@ export default {
     app.component('DoubleCrankAnimation', DoubleCrankAnimation);
     app.component('DoubleRockerAnimation', DoubleRockerAnimation);
     app.component('FourBarAnimation', FourBarAnimation);
+    app.component('OscillatingSliderCrankAnimation', OscillatingSliderCrankAnimation);
     app.component('ReciprocatingSliderCrankAnimation', ReciprocatingSliderCrankAnimation);
     app.component('RevolvingSliderCrankAnimation', RevolvingSliderCrankAnimation);
     app.component('SphericalFourBarAnimation', SphericalFourBarAnimation);
