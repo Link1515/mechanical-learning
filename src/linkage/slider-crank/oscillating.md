@@ -1,6 +1,6 @@
 # 擺動滑塊曲柄機構<br />(Oscillating Slider-Crank Mechanism)
 
-![擺動滑塊曲柄動畫](/images/linkage/擺動滑塊曲柄動畫.gif)
+<OscillatingSliderCrankAnimation />
 
 ## 實際應用
 
