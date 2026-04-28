@@ -1,3 +1,7 @@
+<script setup>
+import FourBarAnimation from '../../../.vitepress/components/animation/FourBarAnimation.vue';
+</script>
+
 # 曲柄搖桿機構<br />(Crank-Rocker Mechanism)
 
 <FourBarAnimation />
