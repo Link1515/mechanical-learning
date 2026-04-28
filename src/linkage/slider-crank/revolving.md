@@ -1,5 +1,5 @@
 <script setup>
-import RevolvingSliderCrankAnimation from '../../../.vitepress/components/animation/RevolvingSliderCrankAnimation.vue';
+import RevolvingSliderCrankAnimation from '~/components/animation/RevolvingSliderCrankAnimation.vue';
 </script>
 
 # 迴轉滑塊曲柄機構<br />(Revolving Slider-Crank Mechanism)

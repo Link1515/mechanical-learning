@@ -1,5 +1,5 @@
 <script setup>
-import SphericalFourBarAnimation from '../../../.vitepress/components/animation/SphericalFourBarAnimation.vue';
+import SphericalFourBarAnimation from '~/components/animation/SphericalFourBarAnimation.vue';
 </script>
 
 # 球面四連桿機構<br />(Spherical 4-Bar Linkage Mechanism)

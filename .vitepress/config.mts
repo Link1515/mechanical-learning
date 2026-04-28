@@ -3,6 +3,10 @@ import linkageSidebar from './sidbars/linkage';
 import drawLineSidebar from './sidbars/drawLine';
 
 const base = '/mechanical-learning/';
+const vitepressDir = decodeURIComponent(new URL('./', import.meta.url).pathname).replace(
+  /^\/([A-Za-z]:\/)/,
+  '$1'
+);
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -59,6 +63,13 @@ export default defineConfig({
     search: {
       provider: 'local'
     }
+  },
+  vite: {
+    resolve: {
+      alias: {
+        '~': vitepressDir,
+      },
+    },
   },
   srcDir: 'src',
   markdown: {

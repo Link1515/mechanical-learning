@@ -1,5 +1,5 @@
 <script setup>
-import FourBarAnimation from '../../../.vitepress/components/animation/FourBarAnimation.vue';
+import FourBarAnimation from '~/components/animation/FourBarAnimation.vue';
 </script>
 
 # 四連桿機構<br />(4-Bar Linkage Mechanism)

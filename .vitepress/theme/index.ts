@@ -1,7 +1,7 @@
 import type { Theme } from 'vitepress';
 import DefaultTheme from 'vitepress/theme';
 import './custom.css';
-import YoutubeEmbed from '../components/YoutubeEmbed.vue';
+import YoutubeEmbed from '~/components/YoutubeEmbed.vue';
 
 export default {
   extends: DefaultTheme,

@@ -1,5 +1,5 @@
 <script setup>
-import DoubleCrankAnimation from '../../../.vitepress/components/animation/DoubleCrankAnimation.vue';
+import DoubleCrankAnimation from '~/components/animation/DoubleCrankAnimation.vue';
 </script>
 
 # 雙曲柄機構<br />(Double Crank Mechanism)

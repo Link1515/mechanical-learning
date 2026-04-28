@@ -1,5 +1,5 @@
 <script setup>
-import DoubleRockerAnimation from '../../../.vitepress/components/animation/DoubleRockerAnimation.vue';
+import DoubleRockerAnimation from '~/components/animation/DoubleRockerAnimation.vue';
 </script>
 
 # 雙搖桿機構<br />(Double Rocker Mechanism)

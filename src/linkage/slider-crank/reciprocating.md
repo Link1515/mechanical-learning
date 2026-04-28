@@ -1,5 +1,5 @@
 <script setup>
-import ReciprocatingSliderCrankAnimation from '../../../.vitepress/components/animation/ReciprocatingSliderCrankAnimation.vue';
+import ReciprocatingSliderCrankAnimation from '~/components/animation/ReciprocatingSliderCrankAnimation.vue';
 </script>
 
 # 往復滑塊機構<br />(Reciprocating Slider-Crank Mechanism)

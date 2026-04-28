@@ -1,5 +1,5 @@
 <script setup>
-import OscillatingSliderCrankAnimation from '../../../.vitepress/components/animation/OscillatingSliderCrankAnimation.vue';
+import OscillatingSliderCrankAnimation from '~/components/animation/OscillatingSliderCrankAnimation.vue';
 </script>
 
 # 擺動滑塊曲柄機構<br />(Oscillating Slider-Crank Mechanism)
