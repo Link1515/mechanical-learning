@@ -1,6 +1,10 @@
+<script setup>
+import FixedSliderCrankAnimation from '~/components/animation/FixedSliderCrankAnimation.vue';
+</script>
+
 # 固定滑塊曲柄機構<br />(Fixed Slider-Crank Mechanism)
 
-![固定滑塊曲柄動畫](/images/linkage/固定滑塊曲柄動畫.gif)
+<FixedSliderCrankAnimation />
 
 ## 實際應用
 
